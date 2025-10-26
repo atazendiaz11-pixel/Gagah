@@ -1,4 +1,4 @@
-# Aplikasi Sistem Manajemen Produksi Seragam (Integrasi 10 Tugas) - Versi Diperbaiki
+
 
 # Data bersama (konstanta)
 #BAHAN UKURAN DIGUNAKAN UNTUK MENDEFINISIKAN UKURAN TUGAS 1
@@ -173,3 +173,4 @@ def main():
 # Jalankan program
 if __name__ == "__main__":
     main()
+
